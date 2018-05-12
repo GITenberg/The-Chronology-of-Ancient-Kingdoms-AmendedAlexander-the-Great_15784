@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6288
     wikipedia: http://en.wikipedia.org/wiki/Isaac_Newton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15784#The-Chronology-of-Ancient-Kingdoms-AmendedAlexander-the-Great
 gutenberg_issued: '2005-05-07'
 gutenberg_type: Text
 identifiers:
